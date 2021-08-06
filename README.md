@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React, GraphQL, TypeScript
-- 💬 Ask me about Javascript, VueJS, Quasar
-- 📫 How to reach me: minhhuy8137@gmail.com
+- 💬 Ask me about Javascript, VueJS, Quasar, React, GraphQL, TypeScript
+- 📫 Reach me at: minhhuy8137@gmail.com
